@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 89.0, -683.0, 1292.0, 617.0 ],
+		"rect" : [ 89.0, -683.0, 870.0, 617.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -1162,7 +1162,7 @@
 					}
 ,
 					"patching_rect" : [ 205.5000319480896, 311.666675806045532, 98.0, 22.0 ],
-					"text" : "gen~ schroebers"
+					"text" : "gen~ Schroeder"
 				}
 
 			}
